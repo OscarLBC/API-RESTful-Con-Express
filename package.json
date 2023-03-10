@@ -1,0 +1,15 @@
+{
+  "name": "servidor-express",
+  "version": "1.0.0",
+  "description": "mi primer servidor creado con node.js y express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oscar benitez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
